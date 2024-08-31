@@ -22,9 +22,6 @@
             echo $value . "<br>";
         }
 
-        foreach($colors as $value){
-            echo $
-        }
         
     ?>
 </body>
