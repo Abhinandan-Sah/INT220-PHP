@@ -12,7 +12,7 @@ $diff = $a - $b;
 echo "Difference: " . $diff . "<br>";
 
 $product = $a * $b;
-echo "Product: ". $product ."<br>";
+echo "Product is: ". $product ."<br>";
 
 $quotient = $a / $b;
 echo "Quotient: " . $quotient . "<br>";
