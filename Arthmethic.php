@@ -21,7 +21,7 @@ $rem = $a % $b;
 echo "Rem: " . $rem . "<br>";
 
 $power = pow($a, $b);
-echo "Power : " . $power . "<br>";
+echo "Power  : " . $power . "<br>";
 ?>
 
 <?="hello";?>//this is short form of echo.<br>
